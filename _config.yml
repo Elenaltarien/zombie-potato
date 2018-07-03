@@ -20,5 +20,5 @@ twitter_username: RachelMFisher
 github_username:  Elenaltarien
 
 #Plugins
-#plugins: [jekyll-paginate]
-#paginate: 3
+plugins: [jekyll-paginate]
+paginate: 3

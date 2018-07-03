@@ -3,3 +3,36 @@
 
 // Materialize
 @import url(https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css);
+
+//Google Icon Font
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+//Fontawesome
+@import url(https://use.fontawesome.com/releases/v5.1.0/css/all.css);
+
+//Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Oswald|Shadows+Into+Light+Two);
+
+//Custom Styles
+@import 'sass/variables';
+@import 'sass/nav';
+
+body {
+  font-family: $font-handwriting;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-sans-serif;
+}
+
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: teal;
+}
