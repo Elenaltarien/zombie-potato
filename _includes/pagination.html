@@ -1,0 +1,23 @@
+<div id="pager" class="container">
+  <div class="row">
+    
+    <div class="col s6 left-align">
+        {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a class="waves-effect waves-light btn pink lighten-1" href="{{ site.baseurl }}/"><i class="fas fa-arrow-left"></i> Newer posts</a>
+        {% else %}
+          <a class="waves-effect waves-light btn pink lighten-1" href="{{ site.baseurl }}/page{{paginator.previous_page}}/"><i class="fas fa-arrow-left"></i> Newer posts</a>
+        {% endif %}
+      {% else %}
+        <a class="disabled btn"><i class="fas fa-arrow-left"></i> Newer posts</a>
+      {% endif %}
+    </div>
+    <div class="col s6 right-align">
+      {% if paginator.next_page %}
+        <a class="waves-effect waves-light btn pink lighten-1" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Older posts <i class="fas fa-arrow-right"></i></a>
+      {% else %}
+        <a class="disabled btn">Older posts <i class="fas fa-arrow-right"></i></a>
+      {% endif %}
+    </div>
+  </div> <!-- end row -->
+</div> <!-- end container -->
