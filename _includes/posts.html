@@ -1,7 +1,7 @@
 <section id="posts">
   {% for post in site.posts %}
   <div class="row">
-    <div class="col s12">
+    <div class="col s12 center-align">
       <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       <p id="date">
           {{ post.date | date: "%b %-d, %Y" }}
