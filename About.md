@@ -19,5 +19,6 @@ Just to give you an idea about the sorts of topics that might come up, here's so
 7. English language and grammar
 8. Technology
 9. Productivity
-10. Christianity and philosophy
+10. Christianity and philosophy <br />
+and so much more!
 
