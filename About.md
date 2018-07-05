@@ -11,8 +11,8 @@ Just to give you an idea about the sorts of topics that might come up, here's so
 (in no particular order)
 
 1. Pets/Animals (I have 6: 2 dogs, 3 cats, 1 rabbit.)
-2. DIY Crafts (knitting, scarpbooking, anything else that seems fun)
-3. Learning Spanish
+2. DIY Crafts (knitting, scrapbooking, anything else that seems fun)
+3. Video games (especially [World of Warcraft](https://worldofwarcraft.com/en-us/))
 4. Recipes and weight loss
 5. History
 6. Natural remedies
