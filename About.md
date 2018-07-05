@@ -1,9 +1,23 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
+Hey, I'm Rachel, the sometimes zombie potato. And this is my eclectic personal blog. See, I'm interested in so many different things that I wanted a place to write about whatever I felt like. No niche focus, just whatever I was inspired to write about. 
 
-# About
+Just to give you an idea about the sorts of topics that might come up, here's some stuff I'm interested in (subject to change). I have no idea if I'll write about all of them or not. Who knows. 
 
-This is a placeholder for an about me page. I'll write stuff about me and my blog. Interests maybe. Sounds fun!
+### 10 Things I'm Interested In
+(in no particular order)
+
+1. Pets/Animals (I have 6: 2 dogs, 3 cats, 1 rabbit.)
+2. DIY Crafts (knitting, scarpbooking, anything else that seems fun)
+3. Learning Spanish
+4. Recipes and weight loss
+5. History
+6. Natural remedies
+7. English language and grammar
+8. Technology
+9. Productivity
+10. Christianity and philosophy
+
