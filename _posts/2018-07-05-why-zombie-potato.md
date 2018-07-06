@@ -5,7 +5,7 @@ summary: Why I named this blog Zombie Potato. The whole riveting story.
 ---
 > Why in the world would you call your blog Zombie Potato?
 
-That's what you are thinking, right? I can't really blame you, it's a weird name. But it's an awesome name and there's a story behind it. 
+That's what you are thinking, right? I can't really blame you; it's a weird name. But it's an awesome name and there's a story behind it. 
 
 ### The Introvert Potato
 
